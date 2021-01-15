@@ -51,9 +51,11 @@
 
 <h4 style>Languages</h4>
 
-<div style="display: flex; margin: 40;">
+<div style="display: flex;">
 
+<div>
 <img alt="Java" src="java.png" width="60" height="60" />
+</div>
 <img alt="C" src="c.png" width="50" width="60" height="60" />
 <img alt="Python" src="python.png" width="60" height="60" />
 <img alt="JavaScript" src="javascript.png" width="60" height="60" />
