@@ -1,7 +1,6 @@
 # Hi there, I'm Antonio 👋
 
 - 🔭 I’m currently a student at the University of Maryland majoring in Computer Science & Mathematics!
-- 🌱 I’m working on a personal side project which I am exited to share soon!
 - 👯 I’m looking to collaborate with other people in fun projects!
 - ⚡ Fun fact: I love to code 🤣
 
