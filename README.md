@@ -53,9 +53,9 @@
 
 <div style="display: flex;">
 
-<img alt="Java" src="java.png" raw=true width="60" height="60" style="margin-right: 10px;" border:"10" />
-<img alt="C" src="c.png" raw=true width="50" width="60" height="60" style="margin-right: 10px;" border:"10" />
-<img alt="Python" src="python.png" raw=true width="60" height="60" style="margin-right: 10px;" border:"10" />
+<img alt="Java" src="java.png" width="60" height="60" />
+<img alt="C" src="c.png" width="50" width="60" height="60" />
+<img alt="Python" src="python.png" width="60" height="60" />
 <img alt="JavaScript" src="javascript.png" width="60" height="60" />
 <img alt="Ocaml" src="OCaml.png" width="60" height="60" />
 <img alt="Ruby" src="ruby.png" width="60" height="60" />
