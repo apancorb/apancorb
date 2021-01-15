@@ -51,15 +51,15 @@
 
 <h4 style>Languages</h4>
 
-<div style="display: flex;">
+<div style="display: flex; margin: 40;">
 
-<img alt="Java" src="java.png" width="50" height="50" style="border:0px;margin:1rem;width:55px;"/>
-<img alt="C" src="c.png" width="50" height="50" style="border:0px;margin:1rem;width:55px;"/>
-<img alt="Python" src="python.png" width="50" height="50" style="border:0px;margin:1rem;width:55px;"/>
-<img alt="JavaScript" src="javascript.png" width="50" height="50" style="border:0px;margin:1rem;width:55px;"/>
-<img alt="Ocaml" src="OCaml.png" width="50" height="50" style="border:0px;margin:1rem;width:55px;"/>
-<img alt="Ruby" src="ruby.png" width="50" height="50" style="border:0px;margin:1rem;width:55px;"/>
-<img alt="Rust" src="rust.png" width="50" height="50" style="border:0px;margin:1rem;width:55px;"/>
+<img alt="Java" src="java.png" width="60" height="60" />
+<img alt="C" src="c.png" width="50" width="60" height="60" />
+<img alt="Python" src="python.png" width="60" height="60" />
+<img alt="JavaScript" src="javascript.png" width="60" height="60" />
+<img alt="Ocaml" src="OCaml.png" width="60" height="60" />
+<img alt="Ruby" src="ruby.png" width="60" height="60" />
+<img alt="Rust" src="rust.png" width="60" height="60" />
 
 </div>
 
