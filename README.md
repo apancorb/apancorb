@@ -53,13 +53,13 @@
 
 <div style="display: flex;">
 
-<img alt="Java" src="java.png" style="border:0px;margin:1rem;width:55px;"/>
-<img alt="C" src="c.png" style="border:0px;margin:1rem;width:55px;"/>
-<img alt="Python" src="python.png" style="border:0px;margin:1rem;width:55px;"/>
-<img alt="JavaScript" src="javascript.png" style="border:0px;margin:1rem;width:55px;"/>
-<img alt="Ocaml" src="OCaml.png" style="border:0px;margin:1rem;width:55px;"/>
-<img alt="Ruby" src="ruby.png" style="border:0px;margin:1rem;width:55px;"/>
-<img alt="Rust" src="rust.png" style="border:0px;margin:1rem;width:55px;"/>
+<img alt="Java" src="java.png" width="200" height="400" style="border:0px;margin:1rem;width:55px;"/>
+<img alt="C" src="c.png" width="200" height="400" style="border:0px;margin:1rem;width:55px;"/>
+<img alt="Python" src="python.png" width="200" height="400" style="border:0px;margin:1rem;width:55px;"/>
+<img alt="JavaScript" src="javascript.png" width="200" height="400" style="border:0px;margin:1rem;width:55px;"/>
+<img alt="Ocaml" src="OCaml.png" width="200" height="400" style="border:0px;margin:1rem;width:55px;"/>
+<img alt="Ruby" src="ruby.png" width="200" height="400" style="border:0px;margin:1rem;width:55px;"/>
+<img alt="Rust" src="rust.png" width="200" height="400" style="border:0px;margin:1rem;width:55px;"/>
 
 </div>
 
