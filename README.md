@@ -17,8 +17,8 @@
 
 <div style="display: flex;">
 
-<img alt="Python" src="python.png" style="border:0px;margin:1rem;width:55px;"/>
-<img alt="JavaScript" src="javascript.png" style="border:0px;margin:1rem;width:55px;"/>
+<img alt="Python" src="python.png" width="60" height="60" />
+<img alt="JavaScript" src="javascript.png" width="60" height="60" />
 
 </div>
 
@@ -26,20 +26,20 @@
 
 <div style="display: flex;">
 
-<img alt="Node.js" src="node-js-new.png" style="border:0px;margin:0.5rem;width:55px;"/>
-<img  alt="React"  src="react.png" style="border:0px;margin:1rem;width:55px;"/>
-<img alt="Redux" src="redux.png" style="border:0px;margin:1rem;width:55px;"/>
-<img alt="MongoDB" src="mongo.png" style="border:0px;margin:1rem;width:55px;"/>
-<img alt="Git" src="git.png" style="border:0px;margin:1rem;width:55px;"/>
+<img alt="Node.js" src="node-js-new.png" width="60" height="60" />
+<img  alt="React"  src="react.png" width="60" height="60" />
+<img alt="Redux" src="redux.png" width="60" height="60" />
+<img alt="MongoDB" src="mongo.png" width="60" height="60" />
+<img alt="Git" src="git.png" width="60" height="60" />
 </div>
 
 <h4>Tools & Other</h4>
 
 <div style="display: flex;">
 
-<img alt="Visual Studio Code"  src="visual-studio-code.png" style="border:0px;margin:1rem;width:55px;"/>
-<img alt="GitHub" src="github.png" style="border:0px;margin:1rem;width:55px;"/>
-<img alt="Postman" src="postman.png" style="border:0px;margin:1rem;width:55px;"/>
+<img alt="Visual Studio Code"  src="visual-studio-code.png" width="60" height="60" />
+<img alt="GitHub" src="github.png" width="60" height="60" />
+<img alt="Postman" src="postman.png" width="60" height="60" />
 
 </div>
 
@@ -53,8 +53,7 @@
 
 <div style="display: flex;">
 
-<img alt="Java" src="java.png" width="60" height="60" />
-<div/>
+<img alt="Java" src="java.png" width="60" height="60" /> 
 <img alt="C" src="c.png" width="50" width="60" height="60" />
 <img alt="Python" src="python.png" width="60" height="60" />
 <img alt="JavaScript" src="javascript.png" width="60" height="60" />
@@ -68,21 +67,21 @@
 
 <div style="display: flex;">
 
-<img alt="Node.js" src="node-js-new.png" style="border:0px;margin:0.5rem;width:55px;"/>
-<img  alt="React"  src="react.png" style="border:0px;margin:1rem;width:55px;"/>
-<img alt="Redux" src="redux.png" style="border:0px;margin:1rem;width:55px;"/>
-<img alt="MongoDB" src="mongo.png" style="border:0px;margin:1rem;width:55px;"/>
-<img alt="SQLITE" src="sqlite.png" style="border:0px;margin:1rem;width:55px;"/>
-<img alt="Git" src="git.png" style="border:0px;margin:1rem;width:55px;"/>
+<img alt="Node.js" src="node-js-new.png" width="60" height="60" />
+<img  alt="React" src="react.png" width="60" height="60" />
+<img alt="Redux" src="redux.png" width="60" height="60" />
+<img alt="MongoDB" src="mongo.png" width="60" height="60" />
+<img alt="SQLITE" src="sqlite.png" width="60" height="60" />
+<img alt="Git" src="git.png" width="60" height="60" />
 </div>
 
 <h4>Tools & Other</h4>
 
 <div style="display: flex;">
 
-<img alt="Visual Studio Code"  src="visual-studio-code.png" style="border:0px;margin:1rem;width:55px;"/>
-<img alt="GitHub" src="github.png" style="border:0px;margin:1rem;width:55px;"/>
-<img alt="Postman" src="postman.png" style="border:0px;margin:1rem;width:55px;"/>
+<img alt="Visual Studio Code" src="visual-studio-code.png" width="60" height="60" />
+<img alt="GitHub" src="github.png" width="60" height="60" />
+<img alt="Postman" src="postman.png" width="60" height="60" />
 
 </div>
 
