@@ -6,7 +6,7 @@
 
 ---
 
-## 📕 Languages and Technologies 📕
+## 📕 Languages and Technologies 
 
 <details>
 
